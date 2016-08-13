@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "RotateLeft" : "Scroll Down",
   "RotateRight" : "Scroll Up",
   "ButtonPress" : "Toggle Block Comment",
@@ -8,4 +9,15 @@
   "SwipeRight" : "Indent",
   "FlyLeft" : "Previous File",
   "FlyRight" : "Next File"
+=======
+  "RotateLeft"  : "Scroll Down",
+  "RotateRight" : "Scroll Up",
+  "ButtonPress" : "Toggle Block Comment",
+  "SwipeUp"     : "Select Next File",
+  "SwipeDown"   : "Select Previous File",
+  "SwipeLeft"   : "Unindent",
+  "SwipeRight"  : "Indent",
+  "FlyLeft"     : "Select Previous File",
+  "FlyRight"    : "Select Next File"
+>>>>>>> getsenic/master
 }
