@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "RotateLeft" : "Scroll Down",
   "RotateRight" : "Scroll Up",
   "ButtonPress" : "Toggle Block Comment",
@@ -12,6 +13,10 @@
 =======
   "RotateLeft"  : "Scroll Down",
   "RotateRight" : "Scroll Up",
+=======
+  "RotateLeft"  : "Scroll Up",
+  "RotateRight" : "Scroll Down",
+>>>>>>> getsenic/master
   "ButtonPress" : "Toggle Block Comment",
   "SwipeUp"     : "Select Next File",
   "SwipeDown"   : "Select Previous File",
